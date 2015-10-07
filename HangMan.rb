@@ -2,7 +2,7 @@
   
   A simple word game
   Date: Oct 5 2015
-  Author: Squad 9
+  Author:Jonathan, Elias, Patty, Daniel, Travis
 =end
 
 
@@ -66,7 +66,7 @@ while true
 
     unless placeholder.include? '#'
       puts "WELL DONE!! YOU SURVIVED"
-      puts survibed
+      puts survived
       break
     end
   else
