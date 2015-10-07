@@ -70,7 +70,7 @@ while true
       break
     end
   else
-    puts "Sorry! The word dosen't contains '#{char}'"
+    puts "Sorry! The word doesn't contains '#{char}'"
     wrong_try += 1
 
     if (wrong_try == total_chances)
